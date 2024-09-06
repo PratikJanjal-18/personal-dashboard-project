@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/personal-dashboard-project/static/css/main.bf110ebd.css",
+    "main.js": "/personal-dashboard-project/static/js/main.6a153362.js",
+    "static/js/453.515f0af5.chunk.js": "/personal-dashboard-project/static/js/453.515f0af5.chunk.js",
+    "index.html": "/personal-dashboard-project/index.html",
+    "main.bf110ebd.css.map": "/personal-dashboard-project/static/css/main.bf110ebd.css.map",
+    "main.6a153362.js.map": "/personal-dashboard-project/static/js/main.6a153362.js.map",
+    "453.515f0af5.chunk.js.map": "/personal-dashboard-project/static/js/453.515f0af5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf110ebd.css",
+    "static/js/main.6a153362.js"
+  ]
+}
