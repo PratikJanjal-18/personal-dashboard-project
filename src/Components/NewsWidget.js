@@ -11,7 +11,8 @@ function NewsWidget() {
     setError(null);
     try {
       const response = await axios.get(
-        `https://newsapi.org/v2/top-headlines?country=us&apiKey=031c5806997d47af8f1123fb8c17339c`
+        `https://newsapi.org/v2/top-headlines?country=us&apiKey=031c5806997d47af8f1123fb8c17339c`,
+        { headers: { 'Accept': 'application/json' } }
       );
       setNews(response.data.articles);
     } catch (error) {
